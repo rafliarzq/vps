@@ -1,7 +1,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	color: #333;
+	color: #020202;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 13px;
 	line-height: 1.7em;
@@ -59,8 +59,9 @@ a.more:hover {
 }
 
 p {
-	margin: 0 0 10px 0;
 	padding: 0;
+	color: #c0ebff;
+	font-size: 15px;
 }
 
 img {
@@ -123,6 +124,7 @@ h5 {
 	font-size: 16px;
 	margin: 0 0 10px;
 	padding: 0;
+	font-size: 19px;
 }
 
 h6 {
@@ -311,8 +313,9 @@ h6 {
 
 #tooplate_main {
 	clear: both;
-	width: 960px;
+	width: auto;
 	padding: 40px 0;
+	text-align: center;
 }
 
 .cont_title {
@@ -375,12 +378,14 @@ h6 {
 	margin-bottom: 10px;
 	font-size: 30px;
 	color: #d46565;
+	text-align: left;
 }
 
 .fp_services_box .price {
 	font-size: 14px;
 	font-weight: bold;
 	color: #cd322f;
+	text-align: left;
 }
 
 .fp_services_box .price span {
@@ -435,8 +440,10 @@ table.plans .more {
 }
 
 #contact_form {
-	padding: 0;
-	width: 400px
+	padding: 20px;
+	width: 1350px;
+	text-align: center;
+	font-size: 17px;
 }
 
 #contact_form form {
@@ -451,7 +458,7 @@ table.plans .more {
 	border: 1px solid #ccc;
 	background: #fff;
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 12px;
+	font-size: 20px;
 	margin-top: 5px;
 }
 

@@ -51,23 +51,20 @@
         <div id="tooplate_main">
                 <div class="fp_services_box last_box">
                     <div class="fps_title">VPS 2</div>
-                    <p>Best Selling Products and more in interest.</p>
                     <p class="price">Start from <span>Rp 106.000/month</span></p>
-                    <a href="vps.php" class="more">View Plans</a>
+                    <a href="vps.php" class="more">View Spec</a>
                 </div>
 
                 <div class="fp_services_box last_box">
                     <div class="fps_title">VPS 4</div>
-                    <p>affordable vps.</p>
                     <p class="price">Start from <span>Rp 167.900/month</span></p>
-                    <a href="vps.php" class="more">View Plans</a>
+                    <a href="vps.php" class="more">View Spec</a>
                 </div>
 
                 <div class="fp_services_box last_box">
                     <div class="fps_title">VPS 8</div>
-                    <p>vps with the most and better features.</p>
                     <p class="price">Start from <span>Rp 334.900/month</span></p>
-                    <a href="vps.php" class="more">View Plans</a>
+                    <a href="vps.php" class="more">View Spec</a>
                 </div>
 
                 <div class="cleaner"></div>
@@ -97,27 +94,19 @@
                     </ul>
                 </div>
 
-                <div class="col_allw300 col_last">
-                    <div class="cont_title">About Us</div>
-                    <p align="justify">Welcome to CloudFlex company providing VPS (Virtual Private Server), which has been providing reliable and high-quality hosting solutions to our customers since 2022.
-                         We are pioneers in the VPS hosting industry and have built a reputation as a leading service provider in terms of reliability, performance, and customer support.
-                    </p>
-                </div>
-            </div>
-
             <div class="cleaner"></div>
 
-        </div> <!-- end of tooplate_main -->
+        </div>
 
-    </div> <!-- end of tooplate_wrapper -->
+    </div> 
 
     <div id="tooplate_footer_wrapper">
         <div id="tooplate_footer">
-            <a href="index.php">Home</a> | <a href="contact.php">Contact</a> | <a href="index.php">About Us</a><br/>
+            <a href="index.php">Home</a> | <a href="vps.php">VPS</a> | <a href="contact.php">Contact</a><br/>
             ©Copyright 2023 <a href="index.php">CloudFlex</a>
             <div class="cleaner"></div>
-        </div><!--end of tooplate_footer-->
-    </div><!--end of tooplate_footer_wrapper-->
+        </div>
+    </div>
 
 </body>
 

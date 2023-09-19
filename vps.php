@@ -35,7 +35,7 @@
     
     <div id="tooplate_main">
     
-    	<h2>VPS Plans</h2>	
+    	<h2>VPS Spesification</h2>	
         <table class="plans" cellpadding="0" cellspacing="0">
         	<tr class="header">
             	<th class="left features">Features</th>
@@ -75,24 +75,24 @@
             </tr>
             <tr>
             	<td class="left"></td>
-                <td class="signup">Rp. 106.000/Month<a href="https://wa.me/+62816239830?text=Saya%20tertarik%20dengan%20VPS%20yang%20Anda%20jual" class="more">Buy Now!</a></td>
-                <td class="signup">Rp. 167.900/Month<a href="https://wa.me/+6281234567890?text=Saya%20tertarik%20dengan%20VPS%20yang%20Anda%20jual" class="more">Buy Now!</a></td>
-                <td class="signup">Rp. 334.900/Month<a href="https://wa.me/+6285697942740?text=Saya%20tertarik%20dengan%20VPS%20yang%20Anda%20jual" class="more">Buy Now!</a></td>
+                <td class="signup">Rp. 106.000/Month<a href="https://wa.me/+62816239830?text=Halo%20Admin%20Saya%20tertarik%20dengan%20vps%202" class="more">Buy Now!</a></td>
+                <td class="signup">Rp. 167.900/Month<a href="https://wa.me/+6281234567890?text=Halo%20Admin%20Saya%20tertarik%20dengan%20vps%204" class="more">Buy Now!</a></td>
+                <td class="signup">Rp. 334.900/Month<a href="https://wa.me/+6285697942740?text=Halo%20Admin%20Saya%20tertarik%20dengan%20vps%208" class="more">Buy Now!</a></td>
 			</tr>
 		</table>
     	
         <div class="cleaner"></div>
-    </div> <!-- end of tooplate_main -->
+    </div>
     
-</div> <!-- end of tooplate_wrapper -->
+</div> 
 
 <div id="tooplate_footer_wrapper">
-	<div id="tooplate_footer">
-    	<a href="index.php">Home</a> | <a href="contact.php">Contact</a> | <a href="index.php">About Us</a><br/>
+        <div id="tooplate_footer">
+            <a href="index.php">Home</a> | <a href="vps.php">VPS</a> | <a href="contact.php">Contact</a><br/>
             ©Copyright 2023 <a href="index.php">CloudFlex</a>
             <div class="cleaner"></div>
-	</div><!--end of tooplate_footer-->
-</div><!--end of tooplate_footer_wrapper-->
+        </div>
+    </div>
 
 </body>
 </html>

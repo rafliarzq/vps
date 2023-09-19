@@ -23,32 +23,20 @@
     </div>
     
     <div id="tooplate_middle">
-		<h1>Unlimited Web Hosting</h1>
-        <em>The Cheapest and The Best Hosting</em>
-        <div class="col_w220 float_l">
-            <ul class="tooplate_list">
-                <li>Unlimited Disk Space</li>
-                <li>Unlimited Bandwidth</li>
-                <li>Host UNLIMITED Domains</li>
-                <li>1-Click Script Installs</li>
-            </ul>
-        </div>
-        <div class="col_w220 float_r">
-            <ul class="tooplate_list">
-            	<li>Easy Control Panel</li>
-                <li>99.9% Uptime Guarantee</li>
-                <li>Money Back Guarantee</li>
-                <li>Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>XHTML</strong></a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a></li>
-            </ul>
-        </div>
+		<h1>About Us</h1>
+        <div class="col_allw350 col_last">
+                    <p>Welcome to CloudFlex company providing VPS (Virtual Private Server), which has been providing reliable and high-quality hosting solutions to our customers since 2022.
+                         We are pioneers in the VPS hosting industry and have built a reputation as a leading service provider in terms of reliability, performance, and customer support.
+                    </p>
+                </div>
+            </div>
+
         <div class="cleaner"></div>
         <div class="cleaner"></div>
 	</div>
     
     <div id="tooplate_main">
-    
     	<h2>Contact Information</h2>
-        
 		<div class="col_w450 float_l"> 
         	<div id="contact_form">
         		
@@ -77,13 +65,12 @@
 </div> 
 
 <div id="tooplate_footer_wrapper">
-	<div id="tooplate_footer">
-    	<a href="index.php">Home</a> | <a href="contact.php">Contact</a> | <a href="index.php">About Us</a><br/>
+        <div id="tooplate_footer">
+            <a href="index.php">Home</a> | <a href="vps.php">VPS</a> | <a href="contact.php">Contact</a><br/>
             ©Copyright 2023 <a href="index.php">CloudFlex</a>
             <div class="cleaner"></div>
-        <div class="cleaner"></div>
-	</div>
-</div>
+        </div>
+    </div>
 
 </body>
 </html>
